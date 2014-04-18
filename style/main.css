@@ -392,26 +392,26 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: url('../tile-sets/10dager.png');
+    background: url('../tile-sets/10dager.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url('../tile-sets/medskje.png');  
+    background: url('../tile-sets/medskje.jpg');  
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: url('../tile-sets/sikkel.png'); }
+    background: url('../tile-sets/sikkel.jpg'); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: url('../tile-sets/berlin.png'); }
+    background: url('../tile-sets/berlin.jpg'); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: url('../tile-sets/vann.png'); }
+    background: url('../tile-sets/vogna.jpg'); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: url('../tile-sets/spise.png'); }
+    background: url('../tile-sets/vann.jpg'); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background: url('../tile-sets/maxi.png');
+    background: url('../tile-sets/maxi.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
